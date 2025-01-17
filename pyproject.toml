@@ -11,6 +11,7 @@ jupyter = "^1.1.1"
 ipykernel = "^6.29.5"
 statadict = "^1.1.0"
 pandas = "^2.2.3"
+numpy = "^2.2.1"
 
 
 [build-system]
