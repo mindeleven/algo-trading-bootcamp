@@ -14,6 +14,8 @@ pandas = "^2.2.3"
 numpy = "^2.2.1"
 empiricaldist = "^0.8.0"
 statsmodels = "^0.14.4"
+yfinance = "^0.2.52"
+anthropic = "^0.45.2"
 
 
 [build-system]
